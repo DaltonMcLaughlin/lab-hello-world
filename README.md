@@ -11,8 +11,11 @@ This is my lab for MI 349 at Michigan State University.
 
 ## How to see this website
 1. Download this project and open index.html
-OR
-2. Navigate to this Netlify link: https://hello-world-lab-dmcl.netlify.app/
+
+    OR
+
+
+1. Navigate to this Netlify link: https://hello-world-lab-dmcl.netlify.app/
 
 ## Files
 - index.hmtl - Webpage HTML file
