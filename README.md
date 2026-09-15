@@ -20,3 +20,6 @@ This is my lab for MI 349 at Michigan State University.
 ## Files
 - index.hmtl - Webpage HTML file
 - Cody.jpg - Picture of my dog
+
+## Deploy status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_SITE_ID/deploy-status)](https://app.netlify.com/sites/hello-world-lab-dmcl/deploys)
